@@ -34,7 +34,7 @@ html, body {
   
 }
 #footer a {
-  color: #f2fe00;  /* bright yellow for visibility */
+  color: #e63946;  /* bright yellow for visibility */
   text-decoration: none;
   font-weight: bold;
 }
@@ -441,4 +441,5 @@ p {
 .adB a {
   color: white;
 }
+
 
