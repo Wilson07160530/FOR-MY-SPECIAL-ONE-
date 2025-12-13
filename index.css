@@ -24,7 +24,7 @@ html, body {
 }
 
 #footer {
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(187, 72, 152, 0.4);
   color: white;
   text-align: center;
   padding: 15px 0;
@@ -441,3 +441,4 @@ p {
 .adB a {
   color: white;
 }
+
